@@ -31,4 +31,6 @@ def plot_results(x, y, a, b):
 
 >esta es una cita
 
-![Etiqueta](Imagenes/hola1.jpg "Ejemplo")
+---
+
+![](imagen.jpg)
