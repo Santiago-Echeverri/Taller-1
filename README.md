@@ -28,3 +28,7 @@ def plot_results(x, y, a, b):
     plt.xlabel('Tiempo (minutos)')
     plt.ylabel('Calorias')
     plt.show()
+
+>esta es una cita
+
+![Etiqueta](Imagenes/hola1.jpg "Ejemplo")
